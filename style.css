@@ -1,0 +1,48 @@
+.index,a{
+    display: block;
+    color: white;
+    font-size: 90px;
+}
+
+.index,body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.index h1{
+    font-size: 90px;
+    text-align: center;
+}
+
+img{
+    width: 80%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#sliders{
+    height: 850px;
+}
+
+.dijon,body{
+    background-color: black;
+    color:white;
+    text-align: left;
+}
+
+h1{
+    font-size: 90px;
+    text-decoration: underline;
+}
+
+div{
+    font-size: 25px;
+}
+
+.spaghetti,body{
+    background-color: black;
+    color:white;
+    text-align: left;
+}
